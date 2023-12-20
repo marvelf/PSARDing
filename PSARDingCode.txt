@@ -1,6 +1,4 @@
-#
-# TD Ameritrade IP Company, Inc. (c) 2008-2022
-#
+#PSAR Sound Alert
 
 input accelerationFactor = 0.02;
 input accelerationLimit = 0.2;
